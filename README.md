@@ -1,6 +1,6 @@
 # Next.js App Router + Server Components Notes
 
-> Try the demo live here: [**next-rsc-notes.vercel.app**]([https://react-server-notes-sigma.vercel.app]).
+> Try the demo live here: <a href="https://react-server-notes-sigma.vercel.app">React-Server-Notes</a>
 
 
 
