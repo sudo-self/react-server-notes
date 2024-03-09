@@ -1,8 +1,7 @@
 # Next.js App Router + Server Components Notes
 
 > Try the demo live here: <a href="https://react-server-notes-sigma.vercel.app">React-Server-Notes</a>
-
-
+<img width="1422" alt="Screenshot 2024-03-09 at 12 01 39 AM" src="https://github.com/sudo-self/react-server-notes/assets/119916323/7e019754-c1ab-456f-a180-ae2b083d0cba">
 
 ### Environment Variables
 
