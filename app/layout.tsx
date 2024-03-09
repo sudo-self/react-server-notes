@@ -45,14 +45,6 @@ export default async function RootLayout({
     <html lang="en">
       <body>
         <div className="container">
-          <div className="banner">
-            <a
-              href="https://notes.jessejesse.com"
-              target="_blank"
-            >
-              Nuxt-Notes →
-            </a>
-          </div>
           <div className="main">
             <Sidebar notes={notesArray}>
               <AuthButton noteId={null}>Add</AuthButton>
