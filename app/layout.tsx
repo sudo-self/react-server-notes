@@ -47,10 +47,10 @@ export default async function RootLayout({
         <div className="container">
           <div className="banner">
             <a
-              href="https://nextjs.org/docs/app/building-your-application/rendering/server-components"
+              href="https://notes.jessejesse.com"
               target="_blank"
             >
-              Learn more →
+              Nuxt-Notes →
             </a>
           </div>
           <div className="main">
